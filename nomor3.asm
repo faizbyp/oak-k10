@@ -4,8 +4,8 @@ section .data
     b: dd 3
     c: dd 2
     
-section .text
-    MOV EAX, [b]    ; d = b*b - (4 * a * c)
+section .text       ; Menghitung determinan: d = b*b - (4 * a * c)
+    MOV EAX, [b]    ; Memindahkan nilai memori b ke register EAX
     IMUL [b]        ; Mengalikan register (b) dengan b
     MOV [d], EAX    ; Menyimpan b^2 ke dalam memori d
     
