@@ -3,7 +3,7 @@ section .data
     p: dd 4
     l: dd 2
     
-section .text
+section .text       ; Menghitung keliling persegi panjang: (p + l) * 2
     MOV EAX, [p]    ; Memindahkan nilai memori p ke register EAX
     ADD EAX, [l]    ; Menjumlahkan register dengan memori l
     IMUL 2          ; Mengalikan register dengan 2
