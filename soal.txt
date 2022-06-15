@@ -1,0 +1,8 @@
+Topik presentasi K10 adalah implementasi program sederhana berikut ke bahasa assembly x86.
+Kode harus bisa berjalan di simulator prosesor x86 https://kobzol.github.io/davis.
+
+1. Hitung luas segitiga. L = a * t / 2
+2. Hitung keliling persegi panjang. K = 2 * (p + l)
+3. Hitung determinan. d = b^2 - 4*a*c
+
+G64012010{55,56,61}
