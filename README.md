@@ -1,6 +1,10 @@
 # Presentasi OAK K1 Pertemuan 10
-Jalankan menggunakan [simulator x86](https://kobzol.github.io/davis/ "kobzol.github.io/davis")
+Repo ini dibuat untuk menyimpan jawaban soal aritmetika komputer mata kuliah Organisasi dan Arsitektur Komputer<br>
 
+## Guide
+Jalankan kode program menggunakan [simulator x86](https://kobzol.github.io/davis/ "kobzol.github.io/davis")
+
+## Anggota Kelompok
 Nama | NIM
 --- | --- 
 M. Hadziq Firza | G6401201055
